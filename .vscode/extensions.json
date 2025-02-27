@@ -1,4 +1,6 @@
 {
-  "recommendations": [],
+  "recommendations": [
+    "ms-ceintl.vscode-language-pack-zh-hans"
+  ],
   "unwantedRecommendations": ["astro-build.astro-vscode"]
 }
